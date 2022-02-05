@@ -3,7 +3,7 @@
     "description": "Pikachu - Whatsapp Bot",
     "logo": "https://i.imgur.com/W0i7oMY.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/jithump4/pikachu?organization=jithump4&organization=jithump4",
+    "repository": "https://github.com/jithump4/pikachu",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
